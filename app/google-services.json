@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "613272146741",
+    "firebase_url": "https://pocketdrabbles.firebaseio.com",
+    "project_id": "pocketdrabbles",
+    "storage_bucket": "pocketdrabbles.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613272146741:android:b00bf5dd6f97b33ae9b27c",
+        "android_client_info": {
+          "package_name": "com.example.pocketdrabbles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613272146741-12qaurv6piii8be7tuoqg3h803p4ic2p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pocketdrabbles",
+            "certificate_hash": "baa40efee77bdd0775e0be3df88259f5d62e8e30"
+          }
+        },
+        {
+          "client_id": "613272146741-fnou3eucj34c5ucc8eava53slebj9bkd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7cR0JGz9wFSZEDQmNOf8SSQP3GvSLQpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613272146741-fnou3eucj34c5ucc8eava53slebj9bkd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
