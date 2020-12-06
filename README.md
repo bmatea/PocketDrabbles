@@ -4,6 +4,10 @@ An Android programming course project.
 
 Uses Firebase Realtime Database for storing data.
 
+### Disclaimer
+
+The author apologies for the esthetical crimes hereby commited. The colours that appear in the application can have unwanted side-effects and looking at them for a prolonged period of time may or may not lead to mild to serious bouts of cringing.
+
 ## Description
 
 Based on an idea for creating a tool which would be of assistance to writers while they are on the move.
@@ -23,4 +27,6 @@ Creating and displaying dialogs between existing characters.
 
 ## Demo
 
-![Quote of the day]()
+<img src="quote.png" width="350" height="500"/> <img src="stories.png" width="350" height="500"/>
+<img src="thesaurus.png" width="350" height="500"/>
+<img src="dialog.png" width="350" height="500"/>
