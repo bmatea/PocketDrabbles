@@ -6,7 +6,7 @@ Uses Firebase Realtime Database for storing data.
 
 ### Disclaimer
 
-The author apologies for the esthetical crimes hereby commited. The colours that appear in the application can have unwanted side-effects and looking at them for a prolonged period of time may or may not lead to mild to serious bouts of cringing.
+The author apologises for the esthetical crimes hereby commited. The colours that appear in the application can have unwanted side-effects and looking at them for a prolonged period of time may or may not lead to mild to serious bouts of cringing.
 
 ## Description
 
